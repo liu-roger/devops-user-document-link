@@ -5,4 +5,4 @@ Here is another if the one above is not working: <br>
  https://ms-teams.gitbook.io/ms-teams-devops-user-document/ 
  
 
-[Link text]((https://ms-teams.gitbook.io/ms-teams-devops-user-document/))
+[Link text](https://ms-teams.gitbook.io/ms-teams-devops-user-document/)
